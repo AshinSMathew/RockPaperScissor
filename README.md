@@ -18,7 +18,7 @@ Python power: Learn and practice Python basics while having fun.
 
 Clone this repository to your local machine.
 
-Run the rock_paper_scissors.py file in your terminal.
+Run the ROCK PAPER SCISSOR.py file in your terminal.
 
 Follow the prompts to make your choices.
 
