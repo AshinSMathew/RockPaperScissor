@@ -7,8 +7,10 @@ Ready for a showdown?  Test your luck and strategy against the computer in this 
 **Built with Python's awesome random module, this game promises unpredictable moves and endless fun. **
 
 Features
-Simple gameplay: Choose your weapon (rock, paper, or scissors) and let the computer make its move. ⚔️
-Clear outcomes: The game instantly declares the winner based on the classic rules.
+Simple gameplay: Choose your weapon (rock, paper, or scissors) and let the computer make its move. 
+
+⚔️Clear outcomes: The game instantly declares the winner based on the classic rules.
+
 Infinite replayability: Play as many rounds as you like!
 Python power: Learn and practice Python basics while having fun.
 How to Play
