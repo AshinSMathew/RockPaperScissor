@@ -1,6 +1,6 @@
 # RockPaperScissor
 
-# Rock, Paper, Scissors: Python Edition ✌️✂️
+# Rock, Paper, Scissors: Python Edition 🪨📃✂️
 
 Ready for a showdown?  Test your luck and strategy against the computer in this classic game of chance and wit!
 
